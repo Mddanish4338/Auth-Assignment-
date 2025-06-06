@@ -1,0 +1,42 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Project Idea: EmpowerHer - Personal Safety and Empowerment App",
+  "main": "index.js",
+  "scripts": {
+    "test": "MIT",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Empower",
+    "Women",
+    "Safety",
+    "Women",
+    "Woman",
+    "Women",
+    "safety",
+    "Woman",
+    "Saftey",
+    "guide",
+    "Empower",
+    "Her",
+    "Emergency",
+    "Live",
+    "location",
+    "share",
+    "Learn",
+    "Safety",
+    "moves."
+  ],
+  "author": "Danish",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^3.0.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.1.1",
+    "nodemon": "^3.0.3"
+  }
+}
